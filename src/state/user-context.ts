@@ -1,5 +1,6 @@
 import { createContext } from "react";
 
+// User represents a user in the system
 export interface User {
   id: string;
   name: string;
